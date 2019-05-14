@@ -13,6 +13,7 @@
 		BD02B690228292AD003F3D78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD02B68F228292AD003F3D78 /* Assets.xcassets */; };
 		BD02B693228292AD003F3D78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD02B691228292AD003F3D78 /* LaunchScreen.storyboard */; };
 		BD02B69B228292CD003F3D78 /* Countdown.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD02B69A228292CD003F3D78 /* Countdown.swift */; };
+		F61DADE4228A66D200FFEFEB /* CountdownPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = F61DADE3228A66D200FFEFEB /* CountdownPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BD02B692228292AD003F3D78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD02B694228292AD003F3D78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD02B69A228292CD003F3D78 /* Countdown.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Countdown.swift; sourceTree = "<group>"; };
+		F61DADE3228A66D200FFEFEB /* CountdownPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountdownPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				BD02B688228292AC003F3D78 /* AppDelegate.swift */,
 				BD02B68A228292AC003F3D78 /* CountdownViewController.swift */,
+				F61DADE3228A66D200FFEFEB /* CountdownPicker.swift */,
 				BD02B69A228292CD003F3D78 /* Countdown.swift */,
 				BD02B68C228292AC003F3D78 /* Main.storyboard */,
 				BD02B68F228292AD003F3D78 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				BD02B68B228292AC003F3D78 /* CountdownViewController.swift in Sources */,
 				BD02B689228292AC003F3D78 /* AppDelegate.swift in Sources */,
 				BD02B69B228292CD003F3D78 /* Countdown.swift in Sources */,
+				F61DADE4228A66D200FFEFEB /* CountdownPicker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
